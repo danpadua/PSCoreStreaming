@@ -1,0 +1,14 @@
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\bin\Debug\netcoreapp2.1\CoreStreaming.deps.json
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\bin\Debug\netcoreapp2.1\CoreStreaming.runtimeconfig.json
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\bin\Debug\netcoreapp2.1\CoreStreaming.runtimeconfig.dev.json
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\bin\Debug\netcoreapp2.1\CoreStreaming.dll
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.csproj.CoreCompileInputs.cache
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.RazorAssemblyInfo.cache
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.RazorAssemblyInfo.cs
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.AssemblyInfoInputs.cache
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.AssemblyInfo.cs
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.RazorTargetAssemblyInfo.cache
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\bin\Debug\netcoreapp2.1\CoreStreaming.pdb
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.dll
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.pdb
+C:\Projetos\PSCoreStreaming\CoreStreaming\CoreStreaming\CoreStreaming\obj\Debug\netcoreapp2.1\CoreStreaming.csprojAssemblyReference.cache
